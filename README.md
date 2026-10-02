@@ -153,3 +153,29 @@ A：如果你的项目使用传统 Cocos2d 引擎且只需 Plist 格式，选 Pn
 ---
 
 *如有问题或建议，欢迎联系我们获取技术支持。*
+
+
+---
+
+## 🏢 关于我们
+
+<p align="center">
+  <a href="http://www.net188.net">
+    <img src="http://www.net188.net/images/logo1.png" alt="Net188 Logo" width="200" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Net188 · 互联网技术服务</strong>
+</p>
+
+<p align="center">
+  专注于跨平台应用开发、AI Agent 集成与大模型应用落地。<br/>
+  提供从产品设计、开发实施到部署运维的全栈技术解决方案。
+</p>
+
+<p align="center">
+  🌐 <a href="http://www.net188.net"><strong>www.net188.net</strong></a>
+</p>
+
+---
